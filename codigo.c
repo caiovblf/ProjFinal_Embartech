@@ -1,5 +1,3 @@
-// main.c - Raspberry Pi Pico, Cronômetro Pomodoro com LEDs indicadores, pausa e reset
-
 #include <stdio.h>
 #include "pico/stdlib.h"
 
